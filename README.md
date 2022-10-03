@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **BacK-End Development**
+- 🌱 I’m currently learning **BacK-End && Front-End Development**
 
 - 📫 How to reach me **fouzishiyyab.fs@gmail.com**
 
